@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-slatevim-dev-75035-authRole",
+      "UnauthRoleArn": "arn:aws:iam::303258621435:role/amplify-slatevim-dev-75035-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::303258621435:role/amplify-slatevim-dev-75035-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-slatevim-dev-75035-deployment",
+      "UnauthRoleName": "amplify-slatevim-dev-75035-unauthRole",
+      "StackName": "amplify-slatevim-dev-75035",
+      "StackId": "arn:aws:cloudformation:us-east-1:303258621435:stack/amplify-slatevim-dev-75035/21553de0-a456-11ec-ad36-12c2a1c4cf6f",
+      "AmplifyAppId": "dvizee12em8wt"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dvizee12em8wt",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
