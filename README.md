@@ -1,14 +1,9 @@
-![SlateVim](https://socialify.git.ci/ridhambhat/SlateVim/image?description=1&font=Raleway&issues=1&language=1&stargazers=1&theme=Light)
 
 <br>
 
 ## 📖 Introduction
 
-> A shared vim editor built on slate.js for the enthusiasts out there!
-
-Collaborative tools are the need of the hour. Services like google docs work great, but developers sometimes need a quick share and an environment they are used to. Here is where <b>SlateVim</b> comes in. 
-
-Used making Slate.js it offers an excellent text editor along with the commands vim is famous for. It packages the power of Vim with the comfort of Google Docs into one.
+> Online Vim Editor
 
 ## ⚙️ Preliminaries
 
@@ -115,24 +110,4 @@ Switch mode
 |Action|Command|
 |------|-------|
 |Change to Normal Mode|`Escape`|
-
-## 🐱‍👤 Challenges we ran into
-
-- Handling change events in Slate.js to sync text across users.
-- GraphQL on AWS Amplify gave some trouble while storing the user data.
-
-## 🏆 Accomplishments that we are proud of
-
-- A working demo at the end of the week while working with new technologies.
-- Integrating GraphQL swiftly was a great experience.
-
-## 🧭 What we learnt
-
-- After digging into the documentation and codebase of Slate.js, we are beginning to understand how it works from the inside.
-- Have a better understanding of AWS Amplify and serverless technology.
-- Using GraphQL firsthand introduced us to a new way of working with the backend.
-
-## 📜 LICENSE
-
-[Apache License](https://github.com/ridhambhat/SlateVim/blob/main/LICENSE)
 
