@@ -21,7 +21,7 @@
 3. Clone the repository.
 
 ```sh
-> git clone https://github.com/ridhambhat/SlateVim.git && cd SlateVim
+> git clone https://github.com/ridhambhat/SlateVim.git && cd Online-Vim
 ```
 
 4. Install required dependencies with `yarn`.
